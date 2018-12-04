@@ -1,4 +1,6 @@
-﻿namespace DemoApplication  
+﻿using System;
+
+namespace DemoApplication  
 {
     class Program
     {
@@ -10,6 +12,7 @@
             Console.Write("Enter Your Last Name: ");
 
             Console.ReadLine();
+            Console.ReadKey(); // use this to stop console from exiting
         }
     }
 }
