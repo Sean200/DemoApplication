@@ -30,6 +30,8 @@ namespace DemoApplication
 
             // maj note - well done on sussing the problem yourself! you'll remember it better for the future
             // next exercise - filter out numerical values. you will need to lookup how to use if-statements, good luck!
+
+            //Vicky waz ere 2k18 LAR
         }
     }
 }
